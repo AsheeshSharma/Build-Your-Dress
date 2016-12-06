@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BYD</string>
+    <string name="shared_pref_saved">images_saved</string>
+    <string name="shared_pref_splash">spalsh_shown</string>
+</resources>
